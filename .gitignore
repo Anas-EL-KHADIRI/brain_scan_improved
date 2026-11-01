@@ -19,9 +19,7 @@ data/yolo/labels/*
 !data/yolo/labels/**/.gitkeep
 
 
-models/*.keras
-models/*.h5
-models/*.pt
+
 models/*.onnx
 !models/.gitkeep
 runs/
