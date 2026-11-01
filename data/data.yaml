@@ -1,0 +1,9 @@
+names:
+- glioma
+- meningioma
+- no_tumor
+- pituitary
+nc: 4
+path: c:\Users\anas\Desktop\youcode\briefs\brain_scan_improved\data\yolo
+train: images/train
+val: images/val

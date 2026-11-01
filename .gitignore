@@ -7,6 +7,8 @@ __pycache__/
 *.ipynb_checkpoints/
 
 
+data/raw2/*
+
 data/raw/*
 !data/raw/**/.gitkeep
 data/processed/*
